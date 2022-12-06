@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krrrishh
+- 👋 Hi, I’m @krrrishh(Gowtham) working in software development field for almost around 10 years and interested to learn new things as I improve myself over time and implement the things I learned for the betterment of the community and my carrer workplace. 
 - 👀 I’m interested in C# windows application development and web based application developments
 - 🌱 I’m currently learning Web platforms and RUST programming languages.
 - 💞️ I’m looking to collaborate on Open source projects which deals with remote desktop control clients and network based requirements 
