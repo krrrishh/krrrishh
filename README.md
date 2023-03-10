@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @krrrishh(Gowtham) working in software development field for almost around 10 years and interested to learn new things as I improve myself over time and implement the things I learned for the betterment of the community and my carrer workplace. 
+- 👋 Hi, I’m @krrrishh(Gowtham) working in software development field for almost around 10+ years and interested to learn new things as I improve myself over time and implement the things I learned for the betterment of the community and my carrer workplace. 
 - 👀 I’m interested in C# windows application development and web based application developments
-- 🌱 I’m currently learning Web platforms and RUST programming languages.
-- 💞️ I’m looking to collaborate on Open source projects which deals with remote desktop control clients and network based requirements 
-- 📫 How to reach me gowthamkrishnan.mscss@gmail.com
+- 🌱 Spending time in currently learning Web platforms and RUST programming languages.
+- 💞️ Currently looking to collaborate on Open source projects which deals with remote desktop control clients and network based requirements 
+- 📫 You can reach me gowthamkrishnan.mscss@gmail.com
 
 <!---
 krrrishh/krrrishh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
